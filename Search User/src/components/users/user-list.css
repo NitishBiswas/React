@@ -1,0 +1,16 @@
+.image-view {
+    border: 3px solid rgb(0, 115, 255);
+    height: 110px;
+    width: 110px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.image {
+    height: 100px;
+    width: 100px;
+}
+
+.list {
+    cursor: pointer;
+}
